@@ -1,2 +1,1 @@
- Hello,
- this file contains deployment script
+ this filecontains deployment script
